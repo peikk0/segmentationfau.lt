@@ -1,5 +1,5 @@
 ---
 layout: home
-excerpt: "A sysadmin blog."
+excerpt: "A BOFH life."
 tags: [blog, sysadmin]
 ---
