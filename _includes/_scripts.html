@@ -18,6 +18,22 @@
   })();
 </script>
 {% endif %}
+{% if site.owner.piwik.id and site.owner.piwik.host %}
+<!-- Piwik -->
+<script type="text/javascript">
+  var _paq = _paq || [];
+  _paq.push(["trackPageView"]);
+  _paq.push(["enableLinkTracking"]);
+
+  (function() {
+    var u=(("https:" == document.location.protocol) ? "https" : "http") + "://{{ site.owner.piwik.host }}/";
+    _paq.push(["setTrackerUrl", u+"piwik.php"]);
+    _paq.push(["setSiteId", "{{ site.owner.piwik.id }}"]);
+    var d=document, g=d.createElement("script"), s=d.getElementsByTagName("script")[0]; g.type="text/javascript";
+    g.defer=true; g.async=true; g.src=u+"piwik.js"; s.parentNode.insertBefore(g,s);
+  })();
+</script>
+{% endif %}
 {% if page.comments %}
   {% include _disqus_comments.html %}
 {% endif %}

@@ -1,25 +1,18 @@
 ---
 layout: page
-title: About the Theme
-tags: [about, Jekyll, theme, responsive]
-modified: 2014-08-08T20:53:07.573882-04:00
-comments: true
-image:
-  feature: texture-feature-02.jpg
-  credit: Texture Lovers
-  creditlink: http://texturelovers.com
+title: About me
+tags: [about, contact, lyon, sysadmin, linux, freebsd, ruby, longboard, photography, guitar, drums, new zealand, job]
+date: 2014-09-22
+modified: 2014-09-22
 ---
 
-Minimal Mistakes is responsive Jekyll theme with large featured images and solid typography. As the name implies the styling is fairly minimal to make it easier for you to build on top of.
+Hi! I'm Pierre, I'm a Linux/FreeBSD system administrator and Ruby developer in
+Lyon, France. When I'm not on my computer, I enjoy longboarding, urban and
+events photography, drumming, playing the guitar and eating bacon.
 
-## Minimal Mistakes is all about:
-
-* Responsive templates. Looking good on mobile, tablet, and desktop.
-* Gracefully degrading in older browsers. Compatible with Internet Explorer 8+ and all modern browsers. 
-* Minimal embellishments -- content first.
-* Optional large feature images for posts and pages.
-* Simple and clear permalink structure.
-* [Custom 404 page](http://mmistakes.github.io/minimal-mistakes/404.html) to get you started.
-* Support for Disqus Comments
-
-<a markdown="0" href="{{ site.url }}/theme-setup" class="btn">Install Minimal Mistakes Theme</a>
+My project in the near future is to move to New Zealand, as I fell in love with
+this amazing country on a trip some months ago. As a result, I'm open to any
+job offers in New Zealand, preferably near Wellington. You can read [my
+resume on LinkedIn](http://linkedin.com/in/pierreguinoiseau/), and/or you can
+contact me via email at *pierre(at)guinoiseau(dot)eu* to ask my CV in PDF
+format and any other informations. ;-)

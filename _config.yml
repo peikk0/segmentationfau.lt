@@ -1,8 +1,8 @@
 # Site wide configuration
 
-title:            Site Title
+title:            Peikk0's blog
 locale:           en_US
-url:              http://localhost:4000
+url:              http://segmentationfau.lt
 
 
 # Jekyll configuration
@@ -26,29 +26,36 @@ kramdown:
 
 # Site owner
 owner:
-  name: Your Name
-  avatar: bio-photo.jpg
-  bio: "Describe your self."
-  email: 
-  disqus-shortname: 
-  twitter: #username
-  facebook: #username
+  name: Pierre Guinoiseau
+  avatar: bio-photo.png
+  bio: BOFH, Linux/FreeBSD sysadmin, MacOSX user, Ruby developer, amateur
+       photographer, guitar player, drummer, metal-head, NZ lover, bacon
+       eater...
+  email: pierre(at)guinoiseau(dot)eu
+  disqus-shortname: segmentationfau-lt
+  twitter: peikk00
+  facebook: 
   google:
-    plus: #username
+    plus: PierreGuinoiseau
     analytics: 
     verify: 
     ad-client: 
     ad-slot: 
   bing-verify: 
-  github: #username
+  piwik:
+      id: 4
+      host: stats.sig11.fr
+  github: peikk0
   stackoverflow: #http://stackoverflow.com/users/123456/username
-  linkedin: #username
+  linkedin: pierreguinoiseau
   instagram: #username
   lastfm: #username
   tumblr: #username
   pinterest: #username
+  500px: peikk0
+  flickr: geekounet
   foursquare: #username
-  steam: #username
+  steam: peikk0
   dribbble: #username
 
 include: [".htaccess"]
