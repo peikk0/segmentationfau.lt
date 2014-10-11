@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About me
-tags: [about, contact, lyon, sysadmin, linux, freebsd, ruby, longboard, photography, guitar, drums, new zealand, job]
+tags: [about, contact, lyon, sysadmin, devops, linux, freebsd, ruby, longboard, photography, guitar, drums, new zealand, job]
 date: 2014-09-22
 modified: 2014-09-22
 ---
