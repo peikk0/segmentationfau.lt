@@ -12,6 +12,6 @@ events photography, drumming, playing the guitar and eating bacon.
 
 I'm moving to New Zealand next august, as I fell in love with this amazing
 country on a trip some months ago. As a result, I'm open to any job offers in
-New Zealand, preferably near Wellington. You can read my CV [here](/cv/cv.pdf)
-or [on LinkedIn](http://linkedin.com/in/pierreguinoiseau/), and you can contact
-me via email at *pierre(at)guinoiseau(dot)eu*. ;-)
+Wellington, New Zealand. You can read [my CV](/cv/cv.pdf){:target="_blank"}
+or [my LinkedIn profile](http://linkedin.com/in/pierreguinoiseau/){:target="_blank"},
+and you can contact me via email at *pierre(at)guinoiseau(dot)eu*. ;-)
