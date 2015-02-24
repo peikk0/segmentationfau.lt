@@ -28,8 +28,8 @@ kramdown:
 owner:
   name: Pierre Guinoiseau
   avatar: bio-photo.png
-  bio: BOFH, Linux/FreeBSD sysadmin, DevOps, amateur photographer, guitar
-       player, drummer, metal-head, NZ lover, bacon eater...
+  bio: BOFH, Linux/Unix sysadmin, DevOps engineer, amateur photographer,
+       guitar player, drummer, metal-head, NZ lover, bacon eater...
   email: pierre(at)guinoiseau(dot)eu
   disqus-shortname: segmentationfau-lt
   twitter: peikk00

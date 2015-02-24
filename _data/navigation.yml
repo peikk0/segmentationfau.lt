@@ -3,6 +3,10 @@
 - title: Posts
   url: /posts/
 
+- title: CV
+  # full url to force target=_blank
+  url: http://segmentationfau.lt/cv/cv.pdf
+
 - title: About
   url: /about/
 
