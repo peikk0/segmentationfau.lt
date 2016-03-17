@@ -14,11 +14,10 @@ leaving on 4th August 2015! It wasn't cheap but I picked (almost) the right
 moment to buy it at the best price possible, for once. Next step is to find a
 job and apply for a visa.
 
-I just updated my [CV](/cv/cv.pdf){:target="_blank"} and my
-[LinkedIn profile](http://linkedin.com/in/pierreguinoiseau){:target="_blank"},
-so I'm now ready to spam everyone with it. ;-) I'm hoping to join a company
-with a great culture, a love for open source technologies, and interesting
-challenges!
+I just updated my [CV](/cv/cv.pdf) and my
+[LinkedIn profile](http://linkedin.com/in/pierreguinoiseau), so I'm now ready
+to spam everyone with it. ;-) I'm hoping to join a company with a great
+culture, a love for open source technologies, and interesting challenges!
 
 As for the visa, I need to pass the IELTS first, which I will next month,
 hopefully it should be fine, but it's still a bit stressful. Then I'll apply

@@ -13,15 +13,14 @@ long enough so here it is, only 2 days before 2016!
 I've been in New Zealand for almost 5 months now, I'm living in a shared
 house in Kelburn -- a beautiful suburb of Wellington, I'm working as a
 DevOps engineer in the eLearning team at
-[Catalyst](https://www.catalyst.net.nz/){:target="_blank"}, and so far it has
-been really great! Oh and by the way, [we are
-hiring!](https://www.catalyst.net.nz/jobs){:target="_blank"}
+[Catalyst](https://www.catalyst.net.nz/), and so far it has been really great!
+Oh and by the way, [we are hiring!](https://www.catalyst.net.nz/jobs)
 
 Obtaining a work visa took way longer than expected, let me explain. I've
 decided to apply for a *Work to Residence Visa*, this is a temporary work visa
 that allows you to apply for a resident visa later on after 2 years living in
 the country. Reading the [requirements on the immigration
-website](http://www.immigration.govt.nz/migrant/stream/work/worktemporarily/requirements/){:target="_blank"},
+website](http://www.immigration.govt.nz/migrant/stream/work/worktemporarily/requirements/),
 I thought I would only need to provide a copy of my employment agreement. I was
 *so* wrong. After reading the actual application forms I would actually have to
 provide:
