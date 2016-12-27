@@ -6,21 +6,21 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-locale                   : "en"
-title                    : "Site Title"
+locale                   : "en_NZ"
+title                    : "Peikk0's blog"
 title_separator          : "-"
-name                     : "Your Name"
-description              : "An amazing website."
-url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : "Pierre Guinoiseau"
+description              : "A BOFH life."
+url                      : https://segmentationfau.lt
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+repository               : peikk0/segmentationfau.lt
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
-  provider               : # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "custom"
+  provider               : disqus # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "custom"
   disqus:
-    shortname            : # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
+      shortname            : segmentationfau-lt # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
   discourse:
     server               : # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
   facebook:
@@ -48,14 +48,14 @@ atom_feed:
   path                   : # blank (default) uses feed.xml
 
 # SEO Related
-google_site_verification :
+google_site_verification : ibpeDNTri1G1ZCeTObRe0Xx2gzZpAd4VBnd1yebR6QA
 bing_site_verification   :
 alexa_site_verification  :
 yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               :
+  username               : peikk0
 facebook:
   username               :
   app_id                 :
@@ -70,41 +70,44 @@ social:
 
 # Analytics
 analytics:
-  provider               : false # false (default), "google", "google-universal", "custom"
+  provider               : piwik # false (default), "google", "google-universal", "piwik", "custom"
   google:
     tracking_id          :
-
+  piwik:
+    tracking_id          : 4
+    url                  : //stats.sig11.fr/
 
 # Site Author
 author:
-  name             : "Your Name"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an amazing person."
-  location         : "Somewhere"
-  email            :
+  name             : "Pierre Guinoiseau"
+  avatar           : /assets/images/bio-photo.jpg # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  bio              : "BOFH, DevOps engineer, Frenchman turned Kiwi, amateur photographer, guitar player, drummer..."
+  location         : "Wellington, Aotearoa"
+  email            : pierre(at)guinoiseau(dot)eu
   uri              :
+  500px            : peikk0
   bitbucket        :
   codepen          :
   dribbble         :
-  flickr           :
+  flickr           : geekounet
   facebook         :
   foursquare       :
-  github           :
-  google_plus      :
+  github           : peikk0
+  google_plus      : PierreGuinoiseau
   keybase          :
-  instagram        :
+  instagram        : peikk00
   lastfm           :
-  linkedin         :
+  linkedin         : pierreguinoiseau
   pinterest        :
-  soundcloud       :
+  soundcloud       : peikk0
   stackoverflow    : # "123456/username" (the last part of your profile url, e.g. http://stackoverflow.com/users/123456/username)
-  steam            :
+  steam            : peikk0
   tumblr           :
-  twitter          :
+  twitter          : peikk00
   vine             :
   weibo            :
   xing             :
-  youtube          : # "https://youtube.com/c/MichaelRoseDesign"
+  youtube          : peikk00 # "https://youtube.com/c/MichaelRoseDesign"
 
 
 # Reading Files
@@ -112,6 +115,7 @@ include:
   - .htaccess
   - _pages
 exclude:
+  - "*.gemspec"
   - "*.sublime-project"
   - "*.sublime-workspace"
   - vendor
@@ -134,6 +138,7 @@ exclude:
   - package.json
   - Rakefile
   - README
+  - screenshot*.png
   - tmp
   - /docs # ignore Minimal Mistakes /docs
   - /test # ignore Minimal Mistakes /test
@@ -174,7 +179,7 @@ sass:
 permalink: /:categories/:title/
 paginate: 5 # amount of posts to show
 paginate_path: /page:num/
-timezone: # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: Pacific/Auckland # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins
