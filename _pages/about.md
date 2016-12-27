@@ -1,4 +1,5 @@
 ---
+permalink: /about/
 layout: single
 title: About me
 date: 2014-09-22
