@@ -75,7 +75,7 @@ analytics:
     tracking_id          :
   piwik:
     tracking_id          : 4
-    url                  : //stats.sig11.fr/
+    url                  : //stats.yggdrasil.nz/
 
 # Site Author
 author:
