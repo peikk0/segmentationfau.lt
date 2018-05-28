@@ -104,7 +104,7 @@ analytics:
 author:
   name             : "Pierre Guinoiseau"
   avatar           : /assets/images/bio-photo.jpg # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "BOFH, DevOps engineer, Frenchman turned Kiwi, amateur photographer, guitar player, drummer..."
+  bio              : "BOFH, SRE, Frenchman/Kiwi, vegan, guitar player, longboarder, aspiring martial artist..."
   location         : "Wellington, Aotearoa"
   email            : pierre(at)guinoiseau(dot)eu
   uri              :
