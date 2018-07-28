@@ -106,7 +106,7 @@ author:
   avatar           : /assets/images/bio-photo.jpg # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "BOFH, SRE, Frenchman/Kiwi, vegan, guitar player, longboarder, aspiring martial artist..."
   location         : "Wellington, Aotearoa"
-  email            : pierre(at)guinoiseau(dot)eu
+  email            : pierre(at)guinoiseau(dot)nz
   uri              :
   500px            : peikk0
   home             : # null (default), "absolute or relative url to link to author home"
